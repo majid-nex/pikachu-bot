@@ -2,9 +2,9 @@
 # Default owners for everything in the repo, unless a later match takes precedence
 
 # Testing edit 
-* @AnonymousD3061 
+* @mr_godfather9 
 # Owner
-*Legendx22
+*Majid
 
 # Phoenix owns the files under blacklist thingies 
 /tg_bot/modules/blacklistusers.py @rsktg
